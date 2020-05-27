@@ -1,24 +1,28 @@
-<div class="sidebar_title icon__uhost"> 云主机 UHost</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
+<div class="sidebar_title icon__udns"> 云解析 UDNS</div>    
 
-* [概览](README.md)
-* 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
-   * [什么是云主机](相对链接)
-   * [功能与优势](相对链接)
-   * [应用场景](相对链接)
-* 计费
-   * [计费模式](相对链接)
-   * [定价表](相对链接)
-   * [配置变更](相对链接)
-   * [续费](相对链接)
-   * [退款](相对链接)
-* 注意事项与使用限制
-   * [注意事项描述](相对链接)
-* 创建第一台云主机
-   * [创建资源](相对链接)
-* 操作指南
-   * [创建](相对链接)
-   * [管理](相对链接)
+* 产品简介
+    * [什么是UDNS](/udns/intro/whatisudns)
+    * [产品功能](/udns/intro/function)
+    * [技术架构](/udns/intro/architecture)
+    * [使用场景](/udns/intro/apply)
+    * [使用限制](/udns/intro/limit)
+* 购买指南
+    * [产品定价](/udns/fast/price)
+    * [记录类型说明](/udns/fast/rrtype)
+ * 操作指南
+    * UDNS
+        * [添加域名](/udns/guide/udns/createudns)
+        * [删除域名](/udns/guide/udns/add)
+        * [编辑域名](/udns/guide/udns/editudns)
+    * 绑定VPC
+        * [绑定VPC](/udns/guide/vpc/bindvpc)
+        * [解绑VPC](/udns/guide/vpc/unbindvpc)
+    * 记录值
+        * [添加记录](/udns/guide/record/addrecord)
+        * [删除记录](/udns/guide/record/deleterecord)
+        * [编辑记录](/udns/guide/record/editrecord)
+    * 监控指标
+        * [获取监控指标](/udns/guide/monitor/getmonitoring)
 * 常见问题
-   * 场景相关
-      * [问题描述](相对链接)
-* [词汇表](_glossary.md)
+  
+* [新功能发布记录](/udns/newfunctions)    

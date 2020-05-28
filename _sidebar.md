@@ -12,7 +12,7 @@
  * 操作指南
     * UDNS
         * [添加域名](/udns/guide/udns/createudns)
-        * [删除域名](/udns/guide/udns/add)
+        * [删除域名](/udns/guide/udns/deleteudns)
         * [编辑域名](/udns/guide/udns/editudns)
     * 绑定VPC
         * [绑定VPC](/udns/guide/vpc/bindvpc)

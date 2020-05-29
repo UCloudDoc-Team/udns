@@ -5,17 +5,17 @@
 
 1、进入**云解析 UDNS**页面。
 
-![](/images/createulb01.png)
-
 2，点击**添加域名**进行域名实例创建。
+![](/images/createudns01.png)
+
 
 3、填写配置信息，进行域名实例创建。详细配置说明见下方。
 
-![](/images/createulb02.png)
+![](/images/createudns02.png)
 
 4，点击**确定**，即添加成功。
 
-![](/images/createulb03.png)
+![](/images/createudns03.png)
 
 ## 配置说明
 

@@ -5,7 +5,7 @@
 ## 更改业务组
 
 更改业务组，支持单个域名实例更改，支持批量域名实例更改。
-![](/images/editudns01.jpg)
+![](/images/editudns01.png) 
 
 
 ### 更改单个域名实例所属业务组
@@ -24,5 +24,5 @@
 
 2，**业务组名称**，新建业务组时名称为必填项。
 
-![](/images/editudns02.jpg)
+![](/images/editudns01.png)
 

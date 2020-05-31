@@ -24,5 +24,5 @@
 
 2，**业务组名称**，新建业务组时名称为必填项。
 
-![](/images/editudns01.png)
+![](/images/editudns02.png)
 

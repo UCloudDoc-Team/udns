@@ -4,10 +4,8 @@ UDNS
 
 * 产品简介
     * [什么是UDNS](/udns/intro/whatisudns)
-    * [产品功能](/udns/intro/function)
-    * [技术架构](/udns/intro/architecture)
-    * [使用场景](/udns/intro/apply)
-    * [使用限制](/udns/intro/limit)
+     * [技术架构](/udns/intro/architecture)
+     * [使用限制](/udns/intro/limit)
     * [配置说明](/udns/intro/config)
 * 购买指南
     * [产品定价](/udns/fast/price)

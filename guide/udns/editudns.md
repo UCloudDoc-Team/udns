@@ -5,6 +5,8 @@
 ## 更改业务组
 
 更改业务组，支持单个域名实例更改，支持批量域名实例更改。
+![](/images/editudns01.jpg)
+
 
 ### 更改单个域名实例所属业务组
 
@@ -22,5 +24,5 @@
 
 2，**业务组名称**，新建业务组时名称为必填项。
 
-![](https://static.ucloud.cn/0ab0bc2fbb0a4d1a9983d83c9d4efa9e.png)
+![](/images/editudns02.jpg)
 

@@ -10,7 +10,7 @@
 
 下面介绍不同操作系统下的DNS修改方式。
 
-## CentOS
+## CentOS（含CentOS6/7/8）
 
 1. 修改/etc/resolv.conf ：
 
@@ -60,7 +60,7 @@ DNS2=100.90.90.90
 ```
 保存并退出。
 
-## Ubuntu
+## Ubuntu(含14.04/16.04/18.04)
 
 1，修改当前的/etc/resolv.conf 配置文件：
 ```
@@ -101,7 +101,7 @@ dns-nameservers 100.90.90.90 100.90.90.100
 并退出保存。
 
 
-## Windows
+## Windows(含2008/2012/2016)
 
 1. 右键点击start,选择 network connections。
 ![images](/images/windows1.png)

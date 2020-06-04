@@ -25,8 +25,9 @@ nameserver 100.90.90.90
 nameserver 100.90.90.100
 ```
 
-2. 保存退出，即可生效。
-3. 进行持久化。查看当前网卡的配置文件 /etc/sysconfig/network-scripts/ifcfg-eth0 
+保存退出，即可生效。
+
+2. 进行持久化。查看当前网卡的配置文件 /etc/sysconfig/network-scripts/ifcfg-eth0 
 
 ```
 sudo vim /etc/sysconfig/network-scripts/ifcfg-eth0

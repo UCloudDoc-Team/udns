@@ -96,7 +96,12 @@ iface eth0 inet static
 3，修改dns-nameservers 这一行为：
 
 ```
-dns-nameservers 100.90.90.90 100.90.90.100
+dns-nameservers 100.90.90.90 100.90.90.100 114.114.114.114
+```
+
+海外及港澳台地域为：
+```
+dns-nameservers 100.90.90.90 100.90.90.100 8.8.8.8
 ```
 并退出保存。
 

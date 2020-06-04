@@ -75,6 +75,31 @@ nameserver 100.90.90.100
 DNS配置即可生效。
 
 2.持久化， 查看网卡配置文件，如下：
+### 非cloud init启动管理
+```
+sudo vim /etc/network/interfaces
+```
+其内容可能如下：
+
+```
+auto lo
+iface lo inet loopback
+auto eth0
+iface eth0 inet static
+address 172.16.0.35
+netmask 255.255.255.240
+gateway 172.16.0.33
+mtu 1454
+dns-nameservers 10.23.255.1 10.23.255.2 114.114.114.114
+```
+修改dns-nameservers 这一行为：
+
+```
+dns-nameservers 100.90.90.90 100.90.90.100 114.114.114.114
+```
+并退出保存。
+
+### 使用cloud init进行启动管理
 ```
 sudo vim /etc/network/interfaces.d/50-cloud-init.cfg
 ```
@@ -93,7 +118,7 @@ iface eth0 inet static
     mtu 1454
 ```
 
-3，修改dns-nameservers 这一行为：
+修改dns-nameservers 这一行为：
 
 ```
 dns-nameservers 100.90.90.90 100.90.90.100 114.114.114.114

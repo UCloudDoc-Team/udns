@@ -2,7 +2,6 @@
 
 UDNS
 
-
 * 产品简介
     * [什么是UDNS](/udns/intro/whatisudns)
     * [技术架构](/udns/intro/architecture)
@@ -30,13 +29,3 @@ UDNS
     * [如何配置反向DNS解析](/udns/faq/ptr)
 * [新功能发布记录](/udns/newfunctions)    
       
-    
-       
-       
-       
-       
-
-
-
-
-

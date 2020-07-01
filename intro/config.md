@@ -75,7 +75,9 @@ nameserver 100.90.90.100
 DNS配置即可生效。
 
 2.持久化， 查看网卡配置文件，如下：
-### 非cloud init启动管理
+
+**情况一：非cloud init启动管理**
+
 ```
 sudo vim /etc/network/interfaces
 ```
@@ -99,7 +101,8 @@ dns-nameservers 100.90.90.90 100.90.90.100 114.114.114.114
 ```
 并退出保存。
 
-### 使用cloud init进行启动管理
+**情况二：使用cloud init进行启动管理**
+
 ```
 sudo vim /etc/network/interfaces.d/50-cloud-init.cfg
 ```
@@ -154,7 +157,8 @@ nameserver 100.90.90.100
 DNS配置即可生效。
 
 2.持久化， 查看网卡配置文件，如下：
-### 非cloud init启动管理
+
+**情况一：非cloud init启动管理**
 ```
 sudo vi /etc/network/interfaces
 ```
@@ -178,7 +182,8 @@ dns-nameservers 100.90.90.90 100.90.90.100 114.114.114.114
 ```
 并退出保存。
 
-### 使用cloud init进行启动管理
+**情况二：使用cloud init进行启动管理**
+
 ```
 sudo vi /etc/network/interfaces.d/50-cloud-init
 ```

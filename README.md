@@ -1,7 +1,5 @@
 # 云解析 UDNS
 
-UDNS
-
 * 产品简介
     * [什么是UDNS](/udns/intro/whatisudns)
     * [技术架构](/udns/intro/architecture)

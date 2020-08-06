@@ -11,12 +11,12 @@
 
 3、填写配置信息，创建域名实例。详细配置说明见下方**配置说明**，递归查询、关联VPC和业务组后续可再行修改。
 
-![](/images/createudns02.png)
+![](/images/createudns2.png)
 
 
 4，点击**确定**，即添加成功。
 
-![](/images/createudns03.png)
+![](/images/createudns3.png)
 
 ## 配置说明
 

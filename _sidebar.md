@@ -1,5 +1,4 @@
-<div class="sidebar_title icon__udns"> 云解析 UDNS</div>    
-
+ 
 * 产品简介
     * [什么是UDNS](/udns/intro/whatisudns)
     * [技术架构](/udns/intro/architecture)
@@ -9,7 +8,6 @@
 * 购买指南
     * [产品定价](/udns/fast/price)
     * [记录类型说明](/udns/fast/rrtype)
- 
  * 操作指南
     * UDNS
         * [添加域名](/udns/guide/udns/createudns)

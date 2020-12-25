@@ -14,7 +14,7 @@
 
 ![](/images/bindvpc01.png) 
 
-> UDNS绑定多个VPC时，所绑定VPC需要相互打通。
+> UDNS绑定多个VPC时，所绑定VPC需要相互联通。
 
 3，选择需要绑定的域名实例，点击**详情**进入**关联VPC**tab页面。
 

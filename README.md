@@ -2,7 +2,7 @@
 
 
 * 产品简介
-    * [什么是UDNS.](/udns/intro/whatisudns)
+    * [什么是UDNS](/udns/intro/whatisudns)
     * [技术架构](/udns/intro/architecture)
     * [应用场景](/udns/intro/apply)
     * [使用限制](/udns/intro/limit)

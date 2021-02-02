@@ -24,5 +24,6 @@
         * [获取监控指标](/udns/guide/monitor/getmonitoring)
 * 常见问题
     * [如何配置反向DNS解析](/udns/faq/ptr)
+    * [混合云如何使用UDNS？](/udns/faq/hybrid) 
 
 

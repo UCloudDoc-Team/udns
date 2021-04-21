@@ -1,6 +1,8 @@
 
 # 配置说明
 
+> 建议后台关闭nscd、systemd-resolved进程，以免导致UDNS解析失败。
+
 在使用UDNS产品时，需要将UHost的主机默认DNS修改为以下配置。
 
 ```

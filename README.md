@@ -22,6 +22,7 @@
         * [添加记录](/udns/guide/record/addrecord)
         * [删除记录](/udns/guide/record/deleterecord)
         * [编辑记录](/udns/guide/record/editrecord)
+        * [同步记录](/udns/guide/record/syncrecord)
     * 监控指标
         * [获取监控指标](/udns/guide/monitor/getmonitoring)
 * 常见问题

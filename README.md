@@ -15,6 +15,7 @@
         * [添加域名](/udns/guide/udns/createudns)
         * [删除域名](/udns/guide/udns/deleteudns)
         * [编辑域名](/udns/guide/udns/editudns)
+        * [转发配置](/udns/guide/udns/forward)
     * 关联VPC
         * [绑定VPC](/udns/guide/vpc/bindvpc)
         * [解绑VPC](/udns/guide/vpc/unbindvpc)
@@ -25,6 +26,8 @@
         * [同步记录](/udns/guide/record/syncrecord)
     * 监控指标
         * [获取监控指标](/udns/guide/monitor/getmonitoring)
+    * 操作日志
+        * [操作日志](/udns/guide/ulog)
 * 常见问题
     * [如何配置反向DNS解析?](/udns/faq/ptr) 
     * [混合云如何使用UDNS？](/udns/faq/hybrid) 
